@@ -1,6 +1,6 @@
 package entities;
 
-public class Product {
+public class '''Product {
     private String nome;
     private double price;
 
